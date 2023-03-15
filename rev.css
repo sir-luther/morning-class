@@ -1,0 +1,30 @@
+
+*{
+    background-color: grey;
+    color: #b520cc;
+}
+
+
+.paragraph{
+    background-color: pink;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+    font-variant: small-caps;
+    text-decoration: underline;
+    line-height: 2cm;
+    text-indent: 50px;
+    word-spacing: 20px;
+    cursor: pointer;
+    border: 2px solid grey;
+    outline: green solid 10px;
+    padding: 20px;
+    margin: 40px;
+}
+.inner{
+    color: #d91212;
+}
+ul{
+    list-style-type: circle;
+    list-style-position: outside;
+}

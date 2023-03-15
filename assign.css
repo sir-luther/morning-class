@@ -1,0 +1,20 @@
+.main{
+    background-color: grey;
+    padding: 50px;
+    display: flex;
+    row-gap: 100px;
+
+}
+.left{
+    padding: 50px;
+    background-color: pink;
+    box-shadow: 4px 6px 12px olivedrab;
+
+}
+.right{
+    padding: 50px;
+    background-color: hotpink;
+    box-shadow: 4px 6px 12px olivedrab;
+    margin-left: 50px;
+
+}

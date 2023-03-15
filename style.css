@@ -1,0 +1,20 @@
+h1{
+    color: white;
+    background-color: grey;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+}
+p{
+    color: #ffffff;
+    background-color: pink;
+    font-size: 20px;
+}
+.main{
+    background-color: #030303;
+    color: white;
+}
+#heading{
+    color: white;
+    background-color: aquamarine;
+}
